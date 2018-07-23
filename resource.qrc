@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Speedtest.net.png</file>
+        <file>Speedtest.net-empty.png</file>
+    </qresource>
+</RCC>
